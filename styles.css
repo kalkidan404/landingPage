@@ -46,7 +46,7 @@ button {
   display: flex;
   justify-content: center;
   flex-direction: row;
-  flex-wrap: wrap;
+
   gap: 20px;
   max-width: 800px;
   margin: 0 auto;
@@ -64,6 +64,8 @@ button {
   border-color: #3882f6;
   border-radius: 5px;
   border-spacing: 2.5px;
+  max-width: 200px;
+  max-height: 200px;
 }
 
 button {
